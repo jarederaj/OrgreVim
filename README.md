@@ -18,6 +18,5 @@ Features
 Resources
 ---------
 
-* [pmpd GitHub](https://github.com/jarederaj/pmpd)
-* [pmpd PyPI](https://pypi.python.org/pypi/pmpd/)
-* [pmpd PyScape](http://pyscape.com/pmpd)
+* [GitHub](https://github.com/jarederaj/OgreVim)
+* [PyScape](http://www.pyscape.com/ogre3d_vim_ubuntu-12_04_lts)
